@@ -1,4 +1,4 @@
-# Gym Management System
+# Static Gym Management System
 
 ## 📌 Project Overview
 This is a **simple Gym Management System website** developed using **Flask, HTML, and CSS**.  
@@ -22,7 +22,7 @@ The project demonstrates the use of **Flask routes, templates, and static files*
 ---
 
 ## 📂 Project Structure
-gym-management-system/
+static-gym-management-system/
 ├── app.py # Main Flask application
 ├── templates/ # HTML templates
 │ ├── home.html
